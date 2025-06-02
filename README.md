@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🧠 Marvelous Owolabi
 
-<!--
-**m4rve10us/m4rve10us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML x Biochemistry | Builder | Research-Driven
 
-Here are some ideas to get you started:
+I’m a Biochemistry major obsessed with scalable intelligence—-human, artificial, or otherwise. Using this space to prototype tools at the intersection of machine learning, biology, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Doing
+- Training and dissecting LLMs for domain-specific reasoning
+- Exploring ML-integrated wet lab workflows
+- Reverse-engineering scientific intuition into code
+- Building from first principles, even when it's slower
+
+### Repos That Matter
+- [`foundations`](https://github.com/YOUR-USERNAME/foundations): My sandbox for Python, ML, and experimentation.
+- [`labframe`](https://github.com/YOUR-USERNAME/labframe): AI-powered tools for molecular science.
+- [`neurite`](https://github.com/YOUR-USERNAME/neurite): ML experiments + generative model workflows.
+
+### Long-Term Vision
+Research that propagates. Tools that scale. Systems that think. Products that matter.
+
+---
+🧪 Stay tuned...
